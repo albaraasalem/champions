@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Champions React App 
+A web application that gives you a selection of many league of legends champion characters to choose from. You could either search for a specific champion by name whereby each champion card has its specific role and difficulty. Or you could filter out champions by specific roles (Marksmen, Assassins, Mages...) or by difficulty level. 
 
 ## Available Scripts
 
